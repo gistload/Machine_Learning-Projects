@@ -1,2 +1,3 @@
 # Machine_Learning-Projects
-machine learning projects for better understanding for real world application
+This is a collection of various machine learning projects with real world implementation. Feel free to contribute to this project with me and make this an awesome repository
+
